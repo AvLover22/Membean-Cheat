@@ -12,3 +12,5 @@ Thanks BJ <3
 
 
 Enjoy!
+
+*Something to note is that you need to know your membean login to use this, since it uses the membean site. Logging in with Google isn't an option.
