@@ -14,5 +14,8 @@ Thanks BJ <3
 Enjoy!
 
 *Something to note is that you need to know your membean login to use this, since it uses the membean site. Logging in with Google isn't an option unfortunately.
-Also, if you find it suspicious that you need to login with your password and username, you can check out the original repo and see for yourself that it is safe.
+
+*Also, if you find it suspicious that you need to login with your password and username, you can check out the original repo and see for yourself that it is safe to use.
+
+*If you experience issues logging in, or nothing happens when you click the login button, either your username or password is wrong, because when you get them right it will immediately login.
 
