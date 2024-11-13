@@ -17,5 +17,5 @@ Enjoy!
 
 *Also, if you find it suspicious that you need to login with your password and username, you can check out the original repo and see for yourself that it is safe to use, as I am (almost) entirely positive it is open source.
 
-*If you experience issues logging in, or nothing happens when you click the login button, either your username or password is wrong, because when you get them right it will immediately login.
+
 
