@@ -13,7 +13,7 @@ Thanks BJ <3
 
 Enjoy!
 
-*Something to note is that you need to know your membean login to use this, since it uses the membean site. Logging in with Google isn't an option unfortunately.
+*Something to note is that you need to know your membean login to use this, since it uses the membean site. Logging in with Google isn't an option unfortunately, so you need to know your email/username, and your membean password.
 
 *Also, if you find it suspicious that you need to login with your password and username, you can check out the original repo and see for yourself that it is safe to use, as I am entirely positive it is open source.
 
